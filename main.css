@@ -1,0 +1,15 @@
+#seleccionTienda,#seleccionProducto,#seleccionTienda{
+    border: 1px black solid;
+}
+#green{
+    color: green;
+}
+#red{
+    color: red;
+}
+#listaPedido{
+    border: 1px black solid;
+}
+#listaPedido p{
+    border-bottom: 2px black solid;
+}
